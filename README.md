@@ -22,7 +22,7 @@ The table above provides a description of actions executed when the Programmable
 ![This is an image](Schematic1.png)
 
 ## Floorplanning
-![This is an image](Floorplan1.png)
+![This is an image](Floorplan2.png)
 
 This image showns the floorplan for the entire core and where each layout of individual circuit components can be found.
 
