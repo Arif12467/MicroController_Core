@@ -17,7 +17,7 @@
 ## Schematic
 
 ## Floorplanning
-![This is an image]()
+![This is an image](Floorplan.png)
 ## Layout
 
 ## Verification
