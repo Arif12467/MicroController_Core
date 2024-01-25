@@ -15,16 +15,22 @@ In this Project, a Fully Custom 8-bit MicroController Core was created using an 
 | ADD      | 101              | Accumulator<-Accumulator+Mem[i]   |
 | SUB      | 110              | Accumulator<-Accumulator-Mem[i]   |
 | SHIFT    | 111              | Left logical shift of Accumulator |
+
+The table above provides a description of actions executed when the Programmable Logic Array is load with the Op-code
+
 ## Schematic
 ![This is an image]()
+
 ## Floorplanning
 ![This is an image](Floorplan.png)
 
 This image showns the floorplan for the entire core and where each layout of individual circuit components can be found.
+
 ## Layout
 ![This is an image](Microprocessor.png)
 
 Full Layout of 8-bit MicroController Core
+
 ## Verification
 ![This is an image]()
 
