@@ -2,7 +2,7 @@
 ## Arif Amzad
 
 ## About
-In this Project, a Fully Custom 8-bit MicroController Core was created using an IBM 90nm Process Design Kit (PDK). The MicroController Core can be controlled by a 6-bit instruction where instruction<0:2> execute the Op-Code and instruction<3:5> are used to control the memory instance or the shift amount. The core consisted of a Full-Adder, Logarithmic Shifter, Shift Enable Logic Circuit, an 8x8 SRAM Array, Programmable Logic Array, Level Sensitive Latch, 3-to-1 Multiplexer, and a Bus Driver (Tristate). Each component was designed and tested to ensure maximum speed and signal integrity. Layouts were made for each component to be used in the final assembly. This document shows the final layout of the entire MicroController Core. 
+In this Project, a Fully Custom 8-bit MicroController Core was created using an IBM 90nm Process Design Kit (PDK). The MicroController Core can be controlled by a 6-bit instruction where instruction<0:2> execute the Op-Code and instruction<3:5> are used to control the memory instance or the shift amount. The core consisted of a Full-Adder, Logarithmic Shifter, Shift Enable Logic Circuit, an 8x8 SRAM Array, Programmable Logic Array (PLA), Level Sensitive Latch, 3-to-1 Multiplexer, and a Bus Driver (Tristate). Each component was designed and tested to ensure maximum speed and signal integrity. Layouts were made for each component to be used in the final assembly. This document shows the final layout of the entire MicroController Core. 
 
 ## Op-Code
 | Assembly | Instruction<0:2> | Description                       |
