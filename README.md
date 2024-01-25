@@ -19,14 +19,18 @@ In this Project, a Fully Custom 8-bit MicroController Core was created using an 
 ![This is an image]()
 ## Floorplanning
 ![This is an image](Floorplan.png)
+
 This image showns the floorplan for the entire core and where each layout of individual circuit components can be found.
 ## Layout
 ![This is an image](Microprocessor.png)
+
 Full Layout of 8-bit MicroController Core
 ## Verification
 ![This is an image]()
+
 Clean DRC Check
 ![This is an image]()
+
 Clean LVS Check
 
 Note: Decoupling Capacitors are responsible for the small warning.
