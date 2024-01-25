@@ -1,4 +1,4 @@
-# 8-bit MicroController Core [WIP]
+# 8-bit MicroController Core
 ## Arif Amzad
 
 ## About
@@ -19,7 +19,7 @@ In this Project, a Fully Custom 8-bit MicroController Core was created using an 
 The table above provides a description of actions executed when the Programmable Logic Array is load with the Op-code
 
 ## Schematic
-![This is an image](Schematic.png)
+![This is an image](Schematic1.png)
 
 ## Floorplanning
 ![This is an image](Floorplan1.png)
