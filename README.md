@@ -32,11 +32,11 @@ This image showns the floorplan for the entire core and where each layout of ind
 Full Layout of 8-bit MicroController Core
 
 ## Verification
-![This is an image]()
+![This is an image](DRC_Clean.png)
 
 Clean DRC Check
 
-![This is an image]()
+![This is an image](LVS_Clean.png)
 
 Clean LVS Check
 
